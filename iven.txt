@@ -1,0 +1,4 @@
+hallo
+git config --global --list
+git config --global user.name vendpat-wq
+git config --global user.email ivenpatiallo@gmail.com
